@@ -86,9 +86,9 @@
 * 4x06: Into the Fire
 * 4x07: Epiphanies
 * 4x08: The Illusion of Truth
-* Movie: Thirdspace
-* 4x09: Atonement
 * Movie: In the Beginning
+* 4x09: Atonement
+* Movie: Thirdspace
 * 4x10: Racing Mars
 * 4x11: Lines of Communication
 * 4x12: Conflicts of Interest
@@ -115,8 +115,8 @@
 * 5x09: In the Kingdom of the Blind
 * 5x10: A Tragedy of Telepaths
 * 5x11: Phoenix Rising
-* 5x12: The Ragged Edge
 * 5x08: Day of the Dead
+* 5x12: The Ragged Edge
 * 5x13: The Corps Is Mother, the Corps Is Father
 * 5x14: Meditations on the Abyss
 * 5x15: Darkness Ascending
@@ -128,10 +128,10 @@
 * 5x21: Objects at Rest
 * Movie: River of Souls
 * Movie: The Legend of the Rangers
-* Movie: A Call to Arms
 
 #### Crusade
 
+* Movie: A Call to Arms
 * Crusade 1x01: War Zone
 * Crusade 1x02: The Long Road
 * Crusade 1x03: The Well of Forever
